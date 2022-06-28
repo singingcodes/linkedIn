@@ -12,6 +12,6 @@
 <p>You can see the backend project here:</p>
 <a href="https://github.com/singingcodes/LinkedIn-Backend">https://github.com/singingcodes/LinkedIn-Backend</a>
 <hr>
-<p>Screenshots from the Frontend: (and again - Test the frontend here: https://linked-in-clone-main.vercel.app/feed .</p>
+<p>Screenshots from the Frontend: (and again - Test the frontend here: https://linked-in-lac.vercel.app/feed .</p>
 <img src="./Screenshot1.png">
 <img src="./Screenshot2.png">
